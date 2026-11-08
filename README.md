@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/4548a114-3669-4bfa-ba56-fb1ad1ff740d"/>
+<!-- <img width=100% bottom=50px src="https://github.com/user-attachments/assets/4548a114-3669-4bfa-ba56-fb1ad1ff740d"/>
 
 <br>
 <br> 
@@ -55,10 +55,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/352dc74a-25ea-4638-ab94-e0b2f3139d26"/>
+ -->
 
 
-
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Gabriel7fs?tab=repositories">
     <img src="./assets/profile-card.svg" width="100%" alt="Gabriel Furquim — Software Developer. Public GitHub activity, technologies and current studies." />
   </a>
@@ -119,5 +119,5 @@
 
 **13 public repositories** · **0 stars on original public repositories** · **5 followers**
 
-Language percentages represent code bytes in original public repositories. Forks and the profile repository are excluded from the language chart. -->
+Language percentages represent code bytes in original public repositories. Forks and the profile repository are excluded from the language chart.
 
