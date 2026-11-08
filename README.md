@@ -8,16 +8,22 @@
 <br>
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel7fs&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Gabriel Furquim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel7fs&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+<div align="center">
+  <img
+    width="49%"
+    height="195"
+    src="https://github-stats-extended.vercel.app/api?username=Gabriel7fs&amp;show_icons=true&amp;hide_border=true&amp;title_color=4682B4&amp;icon_color=4682B4&amp;text_color=4682B4&amp;bg_color=0d1117"
+    alt="Estatísticas do GitHub de Gabriel Furquim"
+  />
+  <img
+    width="41%"
+    height="195"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel7fs&amp;layout=compact&amp;hide_border=true&amp;title_color=4682B4&amp;text_color=4682B4&amp;bg_color=0d1117"
+    alt="Linguagens mais utilizadas por Gabriel Furquim"
+  />
 </div>
 
 &nbsp;
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel7fs&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
 
 <br>
 <br>
